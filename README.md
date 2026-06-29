@@ -84,6 +84,8 @@ Klik tombol **Run ▶** pada Android Studio.
 
 ---
 
+[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://drive.google.com/drive/folders/1qpmFypDrNdlPCCqZgltyz2cF-wvrJrR2?usp=sharing)
+
 # Screenshot Aplikasi
 
 ## Splash Screen
