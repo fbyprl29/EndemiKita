@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/splash.png" width="220">
+  <img src="SS/Splash_Screen.jpeg" width="220">
 </p>
 
 <p align="center">
@@ -88,43 +88,43 @@ Klik tombol **Run ▶** pada Android Studio.
 
 ## Splash Screen
 
-![Splash](SS/Splash_Screen.png)
+![Splash](SS/Splash_Screen.jpeg)
 
 ---
 
 ## Home Screen
 
-![Home](SS/Home_screen.png)
+![Home](SS/Home_screen.jpeg)
 
 ---
 
 ## Search Screen
 
-![Search](SS/Search_Screen.png)
+![Search](SS/Search_Screen.jpeg)
 
 ---
 
 ## Detail Screen
 
-![Detail](SS/Detail_screen.png)
+![Detail](SS/Detail_screen.jpeg)
 
 ---
 
 ## Detail Screen
 
-![Detail](SS/Detail_screen2.png)
+![Detail](SS/Detail_screen2.jpeg)
 
 ---
 
 ## Favorit Screen
 
-![Favorit](SS/Favorit_screen.png)
+![Favorit](SS/Favorit_screen.jpeg)
 
 ---
 
 ## Profile Screen
 
-![Profile](SS/Profile_screen.png)
+![Profile](SS/Profile_screen.jpeg)
 
 ---
 
